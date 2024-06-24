@@ -5,7 +5,12 @@ class Escape{
 
     private static void InicializarJuego()
     {
-        //incognitasSalas =;
+        incognitasSalas[0] = "WORDS-LET";
+        incognitasSalas[1] = "42135";
+        incognitasSalas[2] = "13";
+        incognitasSalas[3] = "NIRVANA";
+        incognitasSalas[4] = "BRITNEY";
+        incognitasSalas[5] = "GACHDBEF";
     }
 
     public static int GetEstadoJuego()
