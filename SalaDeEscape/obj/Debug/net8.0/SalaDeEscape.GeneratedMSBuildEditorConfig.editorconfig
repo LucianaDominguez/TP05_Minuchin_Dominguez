@@ -18,6 +18,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = z:\2024\Prog\TP05_Minuchin_Dominguez\SalaDeEscape
 build_property._RazorSourceGeneratorDebug = 
 
+[z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

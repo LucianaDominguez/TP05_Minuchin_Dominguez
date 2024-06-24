@@ -25,7 +25,7 @@ public class HomeController : Controller
 
     public IActionResult Comenzar()
     {
-        return View();
+        return View("Habitacion"+Escape.GetEstadoJuego);
     }
     public IActionResult Habitacion(int sala, string clave)
     {
@@ -35,9 +35,13 @@ public class HomeController : Controller
         }
         else
         {
-            if(Escape.ResolverSala(sala, clave))
+            if(Escape.ResolverSala(sala, clave) && Escape.GetEstadoJuego() != 6 )
             {
                 RedirectToAction("Habitacion" + Escape.GetEstadoJuego());
+            }
+            else if (Escape.GetEstadoJuego() == 6)
+            {
+                return View("Victoria");
             }
             else
             {

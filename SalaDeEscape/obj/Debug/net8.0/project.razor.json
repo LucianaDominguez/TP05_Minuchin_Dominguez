@@ -19329,6 +19329,16 @@
   "RootNamespace": "SalaDeEscape",
   "Documents": [
     {
+      "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Home\\Habitacion2.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Home\\Habitacion6.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion6.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -19339,8 +19349,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Home\\Habitacion5.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion5.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Home\\Habitacion3.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion3.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19349,8 +19369,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Home\\Habitacion1.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\Views\\Home\\Habitacion4.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion4.cshtml",
       "FileKind": "mvc"
     }
   ],
