@@ -25,7 +25,8 @@ public class HomeController : Controller
 
     public IActionResult Comenzar()
     {
-        return View("Habitacion"+Escape.GetEstadoJuego);
+        string habitacion = "Habitacion"+ Escape.GetEstadoJuego();
+        return View(habitacion);
     }
     public IActionResult Habitacion(int sala, string clave)
     {
