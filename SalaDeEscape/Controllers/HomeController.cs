@@ -24,7 +24,8 @@ public class HomeController : Controller
     }
 
     public IActionResult Comenzar()
-    {
+    { 
+        
         string habitacion = "Habitacion"+ Escape.GetEstadoJuego();
         return View(habitacion);
     }
@@ -32,25 +33,28 @@ public class HomeController : Controller
     {
         if(sala != Escape.GetEstadoJuego())
         {
-            RedirectToAction("Habitacion" + Escape.GetEstadoJuego());
+             
+             return View("Habitacion" + Escape.GetEstadoJuego()); 
         }
         else
         {
             if(Escape.ResolverSala(sala, clave) && Escape.GetEstadoJuego() != 6 )
             {
-                RedirectToAction("Habitacion" + Escape.GetEstadoJuego());
+                
+               return View("Habitacion" + Escape.GetEstadoJuego()); 
             }
             else if (Escape.GetEstadoJuego() == 6)
             {
                 return View("Victoria");
             }
             else
-            {
-                return View();
+            { 
                 ViewBag.Error = "La respuesta es incorrecta.";
+                return View("Habitacion" + Escape.GetEstadoJuego());
+                
             }
         }
 
-        return View();
+        
     }
 }

@@ -26,11 +26,11 @@ class Escape{
         }
         else
         {
-            if(incognitasSalas.Length == 0)
+            if(incognitasSalas[Sala-1] == null)
             {
                 InicializarJuego();
             }
-            if(Incognita == incognitasSalas[Sala])
+            if(Incognita == incognitasSalas[Sala-1])
             {
                 estadoJuego++;
                 return true;

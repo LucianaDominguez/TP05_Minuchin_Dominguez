@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Habitación 2";
+}
+<head>
+    <meta charset="utf-8" />
+    <title>hab2</title>
+  </head>
+  <body>
+    <header>
+      <h1>Años 70' </h1>
+    </header>
+    <main>
+        <p>Estás atrapado en los años 60!! Para poder empezar tu camino hacia la actualidad, y poder salir, tendrás que ver la siguiente imagen y descifrar cuáles son las palabras faltantes. Suerte!!</p>
+         <img src="wwwroot/img/Letra_H1">
+        <form Action = '@Url.Action("Habitacion")'> 
+          <label for="fname">¿Cuál es el orden?</label><br>
+         <input type = "text"><br> 
+         <input type = "submit" value = "Submit"> Checkear clave <br>
+          <input type="hidden" id="sala" name="sala" value="2">
+        </form>
+        <h1>@ViewBag.Error<h1>
+    </main>
+  </body>
