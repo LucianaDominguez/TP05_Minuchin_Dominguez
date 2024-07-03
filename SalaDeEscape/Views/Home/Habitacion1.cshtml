@@ -8,15 +8,16 @@
   </head>
   <body>
     <header>
-      <h1>Años 60': Beatlemania</h1>
+      <audio></audio>
     </header>
-    <main>
+    <main class = "hab1">
+      <h1>Años 60': Beatlemania</h1>
         <p>Estás atrapado en los años 60!! Para poder empezar tu camino hacia la actualidad, y poder salir, tendrás que ver la siguiente imagen y descifrar cuáles son las palabras faltantes. Suerte!!</p>
-         <img src="wwwroot/img/Letra_H1">
+         <img src="~/img/Letra_H1.jpg">
         <form Action = '@Url.Action("Habitacion")'> 
           <label for="fname">Escriba las respuestas separadas por un guion:</label><br>
-         <input type = "text"><br> 
-         <input type = "submit" value = "Submit"> Checkear clave <br>
+          <input type = "text"><br> 
+          <input type = "submit" value = "Submit"> Checkear clave <br>
           <input type="hidden" id="sala" name="sala" value="1"> 
           <input type="hidden" id="clave" name="clave" value="WORDS-LET">
 

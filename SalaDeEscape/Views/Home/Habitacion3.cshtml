@@ -10,13 +10,14 @@
       <h1>Años 80' </h1>
     </header>
     <main>
-        <p>Estás atrapado en los años 60!! Para poder empezar tu camino hacia la actualidad, y poder salir, tendrás que ver la siguiente imagen y descifrar cuáles son las palabras faltantes. Suerte!!</p>
-         <img src="wwwroot/img/Letra_H1">
+        <p>Estás atrapado en los años 80!! </P>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/djV11Xbc914?si=Xk1dQjfnDN7Vskmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <form Action = '@Url.Action("Habitacion")'> 
-          <label for="fname">¿Cuál es el orden?</label><br>
+          <label for="fname">¿Cuál es el código?</label><br>
          <input type = "text"><br> 
          <input type = "submit" value = "Submit"> Checkear clave <br>
           <input type="hidden" id="sala" name="sala" value="3">
+          <input type="hidden" id="clave" name="clave" value="13">
         </form>
         <h1>@ViewBag.Error<h1>
     </main>

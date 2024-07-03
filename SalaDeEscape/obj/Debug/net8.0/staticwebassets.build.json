@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lElxs0mMlp2EcVkg46Wpbclze+ciMRCN6fKebqempbM=",
+  "Hash": "lRbT8jb4DdUgpsuguBfC59/VmKtpicn9c/Q4iUZHkwY=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo años 60.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fondo años 60.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fondo años 60.jpg"
     },
     {
       "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\Letra_H1.jpg",
