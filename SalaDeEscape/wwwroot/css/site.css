@@ -33,15 +33,33 @@ form{
   flex-direction: column;
 }
 .hab1{
-  background-image: url("../img/fondo años 60.jpg");
-  text-align: center;
-} 
+  background-image: url("../img/fondo60.jpg");
+  background-size: cover;
+  text-align: center; 
+   
+}  
+
+.hab1 p,.hab1 h1, .hab1 form
+{
+  background-color: #e9ecefd2;
+  margin-left: 35%; 
+  margin-right: 35%;
+  
+}
+
 .hab1 img { 
   margin-left: 600px; 
   margin-right: 100px;
   display:flex;
   justify-content: center; 
 }
+
+.hab2{
+  background-image: url("../img/fondo70.png");
+  background-size: cover;
+  text-align: center; 
+   
+}  
 
 .lineup{
   display: flex;

@@ -17,8 +17,12 @@
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo años 60.jpg",
-      "PackagePath": "staticwebassets\\img\\fondo años 60.jpg"
+      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo60.jpg",
+      "PackagePath": "staticwebassets\\img\\fondo60.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo70.png",
+      "PackagePath": "staticwebassets\\img\\fondo70.png"
     },
     {
       "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2014.jpg",
