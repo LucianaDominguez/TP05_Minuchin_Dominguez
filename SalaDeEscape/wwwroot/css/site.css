@@ -58,8 +58,41 @@ form{
   background-image: url("../img/fondo70.png");
   background-size: cover;
   text-align: center; 
+  color:#ffffff;
+  font-size: 160%;
    
-}  
+}
+.hab2 section{
+  display :flex;
+  float: left;
+  justify-content: space-between;
+  width:100%;
+  text-align: center;
+}
+.hab2 section div{
+  display :flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width:18%;
+  background-color: #e9ecefab;
+  text-align: center;
+}      
+.hab2 img 
+{
+  width: 80%; 
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+.hab2 form{
+  clear: both;
+}
+.hab2 h4{
+  
+}
 
 .lineup{
   display: flex;

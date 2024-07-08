@@ -57,6 +57,26 @@
       "PackagePath": "staticwebassets\\img\\lolla2023.jpg"
     },
     {
+      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo1.png",
+      "PackagePath": "staticwebassets\\img\\vinilo1.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo2.jpg",
+      "PackagePath": "staticwebassets\\img\\vinilo2.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo3.png",
+      "PackagePath": "staticwebassets\\img\\vinilo3.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo4.png",
+      "PackagePath": "staticwebassets\\img\\vinilo4.png"
+    },
+    {
+      "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo5.png",
+      "PackagePath": "staticwebassets\\img\\vinilo5.png"
+    },
+    {
       "Id": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
