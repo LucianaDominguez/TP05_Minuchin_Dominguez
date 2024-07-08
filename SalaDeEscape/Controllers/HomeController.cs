@@ -25,7 +25,6 @@ public class HomeController : Controller
 
     public IActionResult Comenzar()
     { 
-        
         string habitacion = "Habitacion"+ Escape.GetEstadoJuego();
         return View(habitacion);
     }
@@ -38,10 +37,10 @@ public class HomeController : Controller
         }
         else
         {
-            if(Escape.ResolverSala(sala, clave) && Escape.GetEstadoJuego() != 6 )
+            if(Escape.ResolverSala(sala, clave) && (+Escape.GetEstadoJuego()-1) != 6 )
             {
                 
-               return View("Habitacion" + Escape.GetEstadoJuego()); 
+               return View("Habitacion" + (Escape.GetEstadoJuego())); 
             }
             else if (Escape.GetEstadoJuego() == 6)
             {

@@ -16,10 +16,9 @@
          <img src="~/img/Letra_H1.jpg">
         <form Action = '@Url.Action("Habitacion")'> 
           <label for="fname">Escriba las respuestas separadas por un guion:</label><br>
-          <input type = "text"><br> 
+          <input type = "text" id = "clave" name="clave"><br> 
           <input type = "submit" value = "Submit"> Checkear clave <br>
           <input type="hidden" id="sala" name="sala" value="1"> 
-          <input type="hidden" id="clave" name="clave" value="WORDS-LET">
 
         </form>
         <h1>@ViewBag.Error<h1>

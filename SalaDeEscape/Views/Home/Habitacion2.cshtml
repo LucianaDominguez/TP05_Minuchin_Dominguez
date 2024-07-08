@@ -15,10 +15,9 @@
          <img src="~/img/" >
         <form Action = '@Url.Action("Habitacion")'> 
           <label for="fname">¿Cuál es el orden?</label><br>
-         <input type = "text"><br> 
+         <input type = "text" id="clave" name = "clave"><br>  
          <input type = "submit" value = "Submit"> Checkear clave <br>
           <input type="hidden" id="sala" name="sala" value="2">
-          <input type="hidden" id="clave" name="clave" value="42135">
         </form>
         <h1>@ViewBag.Error<h1>
     </main>
