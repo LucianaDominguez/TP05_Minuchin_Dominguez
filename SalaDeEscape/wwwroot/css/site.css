@@ -1,7 +1,7 @@
 html {
   font-size: 14px;
   min-height: 100%;
-}
+} 
 
 @media (min-width: 768px) {
   html {
@@ -44,14 +44,26 @@ form{
   background-color: #e9ecefd2;
   margin-left: 35%; 
   margin-right: 35%;
+  clear:both;
   
+}
+.hab1 div{
+  float: left;  
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  width: 33%;
 }
 
 .hab1 img { 
-  margin-left: 600px; 
-  margin-right: 100px;
+  
   display:flex;
   justify-content: center; 
+}
+
+.botonH1 
+{
+  margin-top: 300px;
 }
 
 .hab2{
