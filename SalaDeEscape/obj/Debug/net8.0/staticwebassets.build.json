@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gb/pNecEZlh8uqLtNfocp+pbvmzxEvK/2us1QKMOog4=",
+  "Hash": "MMqGw2WJ9l/rEEoznLTPJTJTj+I7a3GD/2V2hAaczVo=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo00.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fondo00.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fondo00.jpg"
+    },
+    {
       "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo60.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
@@ -91,6 +110,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\fondo70.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo80.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fondo80.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fondo80.jpg"
+    },
+    {
+      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo90.gif",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fondo90.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fondo90.gif"
     },
     {
       "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\Letra_H1.jpg",
@@ -623,6 +680,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\Nirvana - Something In The Way (Audio).mp3",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "Nirvana - Something In The Way (Audio).mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Nirvana - Something In The Way (Audio).mp3"
     }
   ]
 }

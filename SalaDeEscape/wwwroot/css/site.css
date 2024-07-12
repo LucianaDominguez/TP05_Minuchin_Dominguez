@@ -102,8 +102,13 @@ form{
 .hab2 form{
   clear: both;
 }
-.hab2 h4{
-  
+
+.botonH2 
+{
+  float: left; 
+  display: flex; 
+  justify-content: space-evenly;
+  width:100%;
 }
 
 .lineup{
@@ -115,10 +120,34 @@ form{
 }
 iframe{
   clear:both;
-  width: 80%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
+  width: 65%;
+  height: 60%;
+  margin-left:17.5%;
+  margin-right:17.5%;
+
+  
+}
+.hab3{
+  background-image: url("../img/fondo80.jpg");
+  background-size: cover;
+  text-align: center; 
+  color:#ffffff;
+  font-size: 160%;
+   
+}
+.hab4{
+  background-image: url("../img/fondo90.gif");
+  background-size: cover;
+  text-align: center; 
+  color:#ffffff;
+  font-size: 160%;
+}
+.hab5{
+  background-image: url("../img/fondo00.jpg");
+  background-size: cover;
+  text-align: center; 
+  color:#ffffff;
+  font-size: 160%;
 }
 footer {
   margin-top: 10px;
