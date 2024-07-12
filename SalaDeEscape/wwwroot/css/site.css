@@ -149,6 +149,16 @@ iframe{
   color:#ffffff;
   font-size: 160%;
 }
+.divinvisible{
+  width: 20%;
+  height: auto; 
+  display:none;
+  
+}
+.divinvisible:hover{
+  display:flex;
+
+}
 footer {
   margin-top: 10px;
   padding: 10px;
