@@ -8,6 +8,16 @@ html {
     font-size: 16px;
   }
 }
+html {
+  font-size: 14px;
+  min-height: 100%;
+} 
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
 *{
   font-family: Arial, Helvetica, sans-serif; 
   
@@ -149,15 +159,24 @@ iframe{
   color:#ffffff;
   font-size: 160%;
 }
-.divinvisible{
-  width: 20%;
-  height: auto; 
-  display:none;
+.hab5 div{
+  width: 10%;
+  height: 10%; 
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  margin:3%;
   
 }
-.divinvisible:hover{
-  display:flex;
-
+.hab5 div img{
+  width:100%;
+  height: auto;
+}
+.hab5 div:hover{
+  display: block;
+  opacity: 1;
+}
+.divinvisible2{
+  margin-left: 20%;
 }
 footer {
   margin-top: 10px;
@@ -165,4 +184,5 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+
 
