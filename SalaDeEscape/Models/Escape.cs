@@ -30,7 +30,7 @@ class Escape{
             {
                 InicializarJuego();
             }
-            if(Incognita.ToUpper() == incognitasSalas[Sala-1])
+            if(!string.IsNullOrEmpty(Incognita) && Incognita.ToUpper() == incognitasSalas[Sala-1])
             {
                 estadoJuego++;
                 return true;
