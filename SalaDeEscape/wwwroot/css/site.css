@@ -119,15 +119,38 @@ form{
   display: flex; 
   justify-content: space-evenly;
   width:100%;
+} 
+.hab6 
+{
+  background-image: url("../img/fondo10.jpg"); 
+  background-size: cover; 
+  text-align: center; 
+  color:#ffffff;
+  font-size: 160%;
 }
+.lineup-section 
+{ 
 
-.lineup{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  margin-bottom: 20px;
+}
+.lineup{ 
+  
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 15%;
+  height: auto;  
+  margin: 10px;
+} 
+.lineup img {
+  max-width: 100%;
   height: auto;
-}
+  clear:both;
+} 
+
 iframe{
   clear:both;
   width: 65%;
@@ -201,7 +224,7 @@ justify-content: flex-end;
 
 }   
 .index h1, .index a 
-{
+{ 
   align-items: flex-start;
   justify-content: center; 
   position: relative; 

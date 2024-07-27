@@ -14,9 +14,9 @@
     <header>
       <h1>Años 10' </h1>
     </header>
-    <main>
+    <main class = "hab6">
         <p>Estás atrapado en los años 2010!! desc Suerte!!</p>
-         <section>
+         <section class = "lineup-section"> 
             <div class = "lineup">
               <img src="~/img/lolla2014.jpg">
               <h2>A</h2>
@@ -49,13 +49,25 @@
               <img src="~/img/lolla2023.jpg">
               <h2>H</h2>
             </div>
-         </section>
+         </section>  
+         <div class="botonH5">
+      <button type="button" class="btn btn-secondary" data-bs-toggle="popover" data-bs-placement="right"
+        data-bs-custom-class="custom-popover" data-bs-title="Pista 1" data-bs-content="PISTA">
+        PISTA 1
+      </button>
+    </div>
         <form Action = '@Url.Action("Habitacion")'> 
           <label for="fname">¿Cuál es el orden?</label><br>
          <input type = "text"  id="clave" name="clave"><br> 
          <input type = "submit" value = "Submit"> Checkear clave <br>
           <input type="hidden" id="sala" name="sala" value="6">
-        </form>
+        </form> 
+            <div class="botonH5">
+      <button type="button" class="btn btn-secondary" data-bs-toggle="popover" data-bs-placement="right"
+        data-bs-custom-class="custom-popover" data-bs-title="Pista 1" data-bs-content="PISTA">
+        PISTA 2
+      </button>
+    </div>
         <h1>@ViewBag.Error<h1>
 
     </main>
