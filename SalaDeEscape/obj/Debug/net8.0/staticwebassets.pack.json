@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets/img/fondo00.jpg"
     },
     {
+      "Id": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo10.jpg",
+      "PackagePath": "staticwebassets/img/fondo10.jpg"
+    },
+    {
       "Id": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo60.jpg",
       "PackagePath": "staticwebassets/img/fondo60.jpg"
     },

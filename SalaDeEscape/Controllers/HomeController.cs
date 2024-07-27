@@ -42,7 +42,7 @@ public class HomeController : Controller
                 
                return View("Habitacion" + (Escape.GetEstadoJuego())); 
             }
-            else if (Escape.GetEstadoJuego() == 6)
+            else if (Escape.GetEstadoJuego() == 7)
             {
                 return View("Victoria");
             }

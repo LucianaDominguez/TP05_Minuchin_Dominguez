@@ -130,7 +130,6 @@ form{
 }
 .lineup-section 
 { 
-
   display: flex;
   flex-wrap: wrap;
   justify-content: center; 
@@ -146,10 +145,14 @@ form{
   margin: 10px;
 } 
 .lineup img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   clear:both;
-} 
+}  
+.hab6-form 
+{
+  clear: both;
+}
 
 iframe{
   clear:both;
@@ -235,6 +238,10 @@ justify-content: flex-end;
   background-color: #e9ecefd2;
 }
 
+.victoria 
+{
+  background-color: black;
+}
  
 
 

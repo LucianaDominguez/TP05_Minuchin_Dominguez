@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F5qtckv7hc8lpaDDWe2ghTseI5/q2Ji9v9JW4UPCDFg=",
+  "Hash": "sXyNX0/VLQ8X4x/UwqKLubq27VseT4yknsoCbLzlUQw=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/fondo00.jpg"
+    },
+    {
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo10.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fondo10.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/fondo10.jpg"
     },
     {
       "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo60.jpg",
