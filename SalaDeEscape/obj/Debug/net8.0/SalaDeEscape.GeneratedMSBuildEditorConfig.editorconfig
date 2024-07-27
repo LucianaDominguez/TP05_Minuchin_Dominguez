@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SalaDeEscape
 build_property.RootNamespace = SalaDeEscape
-build_property.ProjectDir = Z:\2024\Prog\TP05_Minuchin_Dominguez\SalaDeEscape\
+build_property.ProjectDir = /Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = Z:\2024\Prog\TP05_Minuchin_Dominguez\SalaDeEscape
+build_property.MSBuildProjectDirectory = /Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape
 build_property._RazorSourceGeneratorDebug = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Creditos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVkaXRvcy5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Creditos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMS5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWJpdGFjaW9uMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMi5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWJpdGFjaW9uMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMy5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWJpdGFjaW9uMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion4.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uNC5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWJpdGFjaW9uNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion5.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uNS5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWJpdGFjaW9uNS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion6.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uNi5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Habitacion6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IYWJpdGFjaW9uNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Tutorial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvcmlhbC5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Tutorial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UdXRvcmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Victoria.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWN0b3JpYS5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Home/Victoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9WaWN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I+I1hIQpwvveJMrwzYcXLPKm2ULtJYicxJTLPt1XX4U=",
+  "Hash": "F5qtckv7hc8lpaDDWe2ghTseI5/q2Ji9v9JW4UPCDFg=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "SalaDeEscape\\wwwroot",
+      "Name": "SalaDeEscape/wwwroot",
       "Source": "SalaDeEscape",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\css\\site.css",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/css/site.css",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\favicon.ico",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/favicon.ico",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\britney1.png",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/britney1.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/britney1.png",
       "AssetKind": "All",
@@ -71,13 +71,70 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\britney1.png"
+      "OriginalItemSpec": "wwwroot/img/britney1.png"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo00.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/britney2.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/britney2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/britney2.png"
+    },
+    {
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/britney3.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/britney3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/britney3.jpg"
+    },
+    {
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/britney4.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/britney4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/britney4.jpg"
+    },
+    {
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo00.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/fondo00.jpg",
       "AssetKind": "All",
@@ -90,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fondo00.jpg"
+      "OriginalItemSpec": "wwwroot/img/fondo00.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo60.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo60.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/fondo60.jpg",
       "AssetKind": "All",
@@ -109,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fondo60.jpg"
+      "OriginalItemSpec": "wwwroot/img/fondo60.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo70.png",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo70.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/fondo70.png",
       "AssetKind": "All",
@@ -128,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fondo70.png"
+      "OriginalItemSpec": "wwwroot/img/fondo70.png"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo80.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo80.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/fondo80.jpg",
       "AssetKind": "All",
@@ -147,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fondo80.jpg"
+      "OriginalItemSpec": "wwwroot/img/fondo80.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\fondo90.gif",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondo90.gif",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/fondo90.gif",
       "AssetKind": "All",
@@ -166,13 +223,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fondo90.gif"
+      "OriginalItemSpec": "wwwroot/img/fondo90.gif"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\Letra_H1.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondoIndex.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fondoIndex.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/fondoIndex.jpg"
+    },
+    {
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/Letra_H1.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Letra_H1.jpg",
       "AssetKind": "All",
@@ -185,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Letra_H1.jpg"
+      "OriginalItemSpec": "wwwroot/img/Letra_H1.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2014.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2014.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2014.jpg",
       "AssetKind": "All",
@@ -204,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2014.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2014.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2015.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2015.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2015.jpg",
       "AssetKind": "All",
@@ -223,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2015.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2015.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2016.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2016.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2016.jpg",
       "AssetKind": "All",
@@ -242,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2016.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2016.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2017.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2017.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2017.jpg",
       "AssetKind": "All",
@@ -261,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2017.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2017.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2018.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2018.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2018.jpg",
       "AssetKind": "All",
@@ -280,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2018.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2018.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2019.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2019.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2019.jpg",
       "AssetKind": "All",
@@ -299,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2019.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2019.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2022.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2022.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2022.jpg",
       "AssetKind": "All",
@@ -318,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2022.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2022.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\lolla2023.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2023.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/lolla2023.jpg",
       "AssetKind": "All",
@@ -337,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lolla2023.jpg"
+      "OriginalItemSpec": "wwwroot/img/lolla2023.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\Thumbs.db",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/Thumbs.db",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -356,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
+      "OriginalItemSpec": "wwwroot/img/Thumbs.db"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo1.png",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/vinilo1.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/vinilo1.png",
       "AssetKind": "All",
@@ -375,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\vinilo1.png"
+      "OriginalItemSpec": "wwwroot/img/vinilo1.png"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo2.jpg",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/vinilo2.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/vinilo2.jpg",
       "AssetKind": "All",
@@ -394,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\vinilo2.jpg"
+      "OriginalItemSpec": "wwwroot/img/vinilo2.jpg"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo3.png",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/vinilo3.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/vinilo3.png",
       "AssetKind": "All",
@@ -413,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\vinilo3.png"
+      "OriginalItemSpec": "wwwroot/img/vinilo3.png"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo4.png",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/vinilo4.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/vinilo4.png",
       "AssetKind": "All",
@@ -432,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\vinilo4.png"
+      "OriginalItemSpec": "wwwroot/img/vinilo4.png"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\img\\vinilo5.png",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/vinilo5.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/vinilo5.png",
       "AssetKind": "All",
@@ -451,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\vinilo5.png"
+      "OriginalItemSpec": "wwwroot/img/vinilo5.png"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\js\\site.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/js/site.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -470,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -489,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -508,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -527,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -546,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -565,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -584,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -603,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -622,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -641,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -660,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -679,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -698,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\Nirvana - Something In The Way (Audio).mp3",
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/Nirvana - Something In The Way (Audio).mp3",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Prog\\TP05_Minuchin_Dominguez\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "Nirvana - Something In The Way (Audio).mp3",
       "AssetKind": "All",
@@ -717,7 +793,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Nirvana - Something In The Way (Audio).mp3"
+      "OriginalItemSpec": "wwwroot/Nirvana - Something In The Way (Audio).mp3"
     }
   ]
 }

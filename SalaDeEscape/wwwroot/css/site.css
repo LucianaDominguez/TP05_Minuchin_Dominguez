@@ -183,6 +183,36 @@ footer {
   padding: 10px;
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
+} 
+.index 
+{
+  background-image: url("../img/fondoIndex.jpg"); 
+  background-size: cover;   
+  color:#ffffff;
+  font-size: 160%;
+}  
+.index div
+{ 
+  
+  align-items: center;
+justify-content: flex-end;
+  margin-left: 700px;  
+  
+
+}   
+.index h1, .index a 
+{
+  align-items: flex-start;
+  justify-content: center; 
+  position: relative; 
+  top:300px
+} 
+.index a 
+{
+  background-color: #e9ecefd2;
 }
+
+ 
+
 
 
