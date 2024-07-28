@@ -186,12 +186,16 @@ iframe{
   color:#ffffff;
   font-size: 160%;
 }
-.hab5 div{
+.hab5 section .botonH2{
+  display: flex;
+  align-items: center;
+  width: 30%;
+}
+.divinvisible1, .divinvisible2, .divinvisible3, .divinvisible4{
   width: 10%;
   height: 10%; 
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
-  margin:3%;
   
 }
 .hab5 div img{
@@ -203,7 +207,22 @@ iframe{
   opacity: 1;
 }
 .divinvisible2{
-  margin-left: 20%;
+  margin-left: 40%;
+}
+.divinvisible3{
+  margin-left:80%;
+}
+.divinvisible4{
+  margin-left:60%;
+  margin-top:6%;
+}
+.hab5 section{
+  float:left;
+  height: 20%;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 footer {
   margin-top: 10px;
@@ -257,6 +276,17 @@ justify-content: flex-end;
 {
   width: 10%; 
   height: 15%; 
+}
+.victoria{
+  background-image: url("../img/fondovictoria.gif");
+  background-size: cover;
+  color:#e9ecef;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4%;
+  clear:both;
 }
 
 

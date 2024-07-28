@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/SalaDeEscape.csproj": {}
+    "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\SalaDeEscape.csproj": {}
   },
   "projects": {
-    "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/SalaDeEscape.csproj": {
+    "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\SalaDeEscape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/SalaDeEscape.csproj",
+        "projectUniqueName": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\SalaDeEscape.csproj",
         "projectName": "SalaDeEscape",
-        "projectPath": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/SalaDeEscape.csproj",
-        "packagesPath": "/Users/renataminuchin/.nuget/packages/",
-        "outputPath": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/obj/",
+        "projectPath": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\SalaDeEscape.csproj",
+        "packagesPath": "C:\\Users\\mdomi\\.nuget\\packages\\",
+        "outputPath": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/renataminuchin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mdomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -56,3 +56,32 @@ Z:/2024/Prog/TP05_Minuchin_Dominguez/SalaDeEscape/obj/Debug/net8.0/ref/SalaDeEsc
 /Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/obj/Debug/net8.0/SalaDeEscape.pdb
 /Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/obj/Debug/net8.0/SalaDeEscape.genruntimeconfig.cache
 /Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/obj/Debug/net8.0/ref/SalaDeEscape.dll
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\appsettings.Development.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\appsettings.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.staticwebassets.runtime.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.exe
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.deps.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.runtimeconfig.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.dll
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.pdb
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.AssemblyInfoInputs.cache
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.AssemblyInfo.cs
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.csproj.CoreCompileInputs.cache
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.MvcApplicationPartsAssemblyInfo.cache
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.RazorAssemblyInfo.cache
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.RazorAssemblyInfo.cs
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.sourcelink.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\staticwebassets.build.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\staticwebassets.development.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.build.SalaDeEscape.props
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalaDeEscape.props
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalaDeEscape.props
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\scopedcss\bundle\SalaDeEscape.styles.css
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.dll
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\refint\SalaDeEscape.dll
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.pdb
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.genruntimeconfig.cache
+D:\Luly\INFO 2024\TP05_Minuchin_Dominguez-1\SalaDeEscape\obj\Debug\net8.0\ref\SalaDeEscape.dll
