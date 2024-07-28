@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\img\\fondo10.jpg"
     },
     {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\fondo10B.jpg",
+      "PackagePath": "staticwebassets\\img\\fondo10B.jpg"
+    },
+    {
       "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\fondo60.jpg",
       "PackagePath": "staticwebassets\\img\\fondo60.jpg"
     },
@@ -59,6 +63,10 @@
     {
       "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\fondo90.gif",
       "PackagePath": "staticwebassets\\img\\fondo90.gif"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\fondoCreditos.png",
+      "PackagePath": "staticwebassets\\img\\fondoCreditos.png"
     },
     {
       "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\fondoIndex.jpg",
@@ -107,6 +115,14 @@
     {
       "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\lolla2023.jpg",
       "PackagePath": "staticwebassets\\img\\lolla2023.jpg"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\tutorial1.png",
+      "PackagePath": "staticwebassets\\img\\tutorial1.png"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\tutorial2.png",
+      "PackagePath": "staticwebassets\\img\\tutorial2.png"
     },
     {
       "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\vinilo1.png",

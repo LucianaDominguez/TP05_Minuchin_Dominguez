@@ -30,6 +30,7 @@ body {
 main{
   /*background-color: #ccd0d3;*/
   height: 1000px;
+  
   width: auto;
 
 }
@@ -48,7 +49,6 @@ form{
   text-align: center; 
    
 }  
-
 .hab1 p,.hab1 h1, .hab1 form
 {
   background-color: #e9ecefd2;
@@ -122,11 +122,13 @@ form{
 } 
 .hab6 
 {
-  background-image: url("../img/fondo10.jpg"); 
-  background-size: cover; 
+  background-image: url("../img/fondo10B.jpg"); 
+  background-size: cover;
   text-align: center; 
-  color:#ffffff;
+  color:#c70000;
   font-size: 160%;
+  font-weight: bolder;
+  height:1600px;
 }
 .lineup-section 
 { 
@@ -140,7 +142,7 @@ form{
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 15%;
+  width: 20%;
   height: auto;  
   margin: 10px;
 } 
@@ -178,6 +180,9 @@ iframe{
   text-align: center; 
   color:#ffffff;
   font-size: 160%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
 .hab5{
   background-image: url("../img/fondo00.jpg");
@@ -229,6 +234,7 @@ footer {
   padding: 10px;
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
+  position:relative;
 } 
 .index 
 {
@@ -264,13 +270,21 @@ justify-content: flex-end;
   background-image: url("../img/fondoTutorial.jpg"); 
   background-size: cover; 
   color:#403f3f;
-  font-size: 110%;
+  font-size: 120%;
+  height:1400px;
 } 
 .tutorial div
 {
   display: flex;
   justify-content: center; 
   align-items: center;
+}
+.imgTutorial{
+  height:25%;
+}
+.imgTutorial img{
+  width:20%;
+  height:auto;
 }
 .tutorial button 
 {
@@ -281,10 +295,18 @@ justify-content: flex-end;
   background-image: url("../img/fondovictoria.gif");
   background-size: cover;
   color:#e9ecef;
+}
+.creditos{
+  background-image: url("../img/fondoCreditos.png");
+  background-size: cover;
+  color:#000000;
+}
+.victoria, .creditos{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   margin: 4%;
   clear:both;
 }
