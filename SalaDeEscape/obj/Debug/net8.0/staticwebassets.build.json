@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3mCgI/BFd6cGDmLbqJI5GlviccxmUWOQwIuVLdDm9WM=",
+  "Hash": "BX1Ld63PTV09FyLHsBvl/+ViSpa86TFFZNF8ymZHxxU=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -376,6 +376,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Letra_H1.jpg"
+    },
+    {
+      "Identity": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\logo.png",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
       "Identity": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\lolla2014.jpg",

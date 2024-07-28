@@ -43,6 +43,9 @@ form{
   align-items: center;
   flex-direction: column;
 }
+.logo{
+  width:12%;
+}
 .hab1{
   background-image: url("../img/fondo60.jpg");
   background-size: cover;
@@ -242,23 +245,22 @@ footer {
   background-size: cover;   
   color:#ffffff;
   font-size: 160%;
+}
+.index section{
+  height:40%;
+  margin-top:10%;
 }  
 .index div
 { 
+  display: flex;
+  align-items:start;
+  margin-left: 500px;
+  height:60%;  
+  margin-right:15%;
   
-  align-items: center;
-justify-content: flex-end;
-  margin-left: 700px;  
   
 
 }   
-.index h1, .index button
-{ 
-  align-items: flex-start;
-  justify-content: center; 
-  position: relative; 
-  top:300px; 
-} 
 .index button 
 {
   width: 15%; 
