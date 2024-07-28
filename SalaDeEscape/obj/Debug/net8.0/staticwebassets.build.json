@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sXyNX0/VLQ8X4x/UwqKLubq27VseT4yknsoCbLzlUQw=",
+  "Hash": "l2vW9Ooif8jVaD9X2uk6uSAGu5eFvxRzXbSfNoFnUm8=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -262,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/fondoIndex.jpg"
+    },
+    {
+      "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondoVictoria.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fondoVictoria.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/fondoVictoria.jpg"
     },
     {
       "Identity": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/Letra_H1.jpg",

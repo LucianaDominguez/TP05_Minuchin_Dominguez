@@ -152,7 +152,8 @@ form{
 .hab6-form 
 {
   clear: both;
-}
+} 
+
 
 iframe{
   clear:both;
@@ -226,23 +227,37 @@ justify-content: flex-end;
   
 
 }   
-.index h1, .index a 
+.index h1, .index button
 { 
   align-items: flex-start;
   justify-content: center; 
   position: relative; 
-  top:300px
+  top:300px; 
 } 
-.index a 
+.index button 
 {
-  background-color: #e9ecefd2;
+  width: 15%; 
+  height: 15%; 
 }
 
-.victoria 
+.tutorial 
 {
-  background-color: black;
+  background-image: url("../img/fondoTutorial.jpg"); 
+  background-size: cover; 
+  color:#403f3f;
+  font-size: 110%;
+} 
+.tutorial div
+{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
 }
- 
+.tutorial button 
+{
+  width: 10%; 
+  height: 15%; 
+}
 
 
 

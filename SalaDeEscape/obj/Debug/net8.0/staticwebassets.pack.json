@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets/img/fondoIndex.jpg"
     },
     {
+      "Id": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/fondoVictoria.jpg",
+      "PackagePath": "staticwebassets/img/fondoVictoria.jpg"
+    },
+    {
       "Id": "/Users/renataminuchin/TP05/TP05_Minuchin_Dominguez/SalaDeEscape/wwwroot/img/lolla2014.jpg",
       "PackagePath": "staticwebassets/img/lolla2014.jpg"
     },

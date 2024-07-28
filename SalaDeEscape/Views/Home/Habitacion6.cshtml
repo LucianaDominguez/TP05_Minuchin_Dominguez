@@ -40,7 +40,8 @@
             <div class= "lineup">
               <img src="~/img/lolla2019.jpg">
               <h2>F</h2>
-            </div> 
+            </div>  
+            
             <div class="lineup">   
               <img src="~/img/lolla2022.jpg"> 
               <h2>G</h2>
@@ -51,12 +52,7 @@
             </div> 
             
          </section>  
-         <div class="botonH1">
-          <button type="button" class="btn btn-secondary" data-bs-toggle="popover" data-bs-placement="right"
-           data-bs-custom-class="custom-popover" data-bs-title="Pista 1" data-bs-content="PISTA">
-           PISTA 1
-          </button>
-         </div> 
+         
          <div class = "hab6-form">
         <form Action = '@Url.Action("Habitacion")'> 
           <label for="fname">¿Cuál es el orden?</label><br>
@@ -65,11 +61,22 @@
           <input type="hidden" id="sala" name="sala" value="6">
         </form>  
          </div>
-            <div class="botonH1">
-      <button type="button" class="btn btn-secondary" data-bs-toggle="popover" data-bs-placement="right"
-        data-bs-custom-class="custom-popover" data-bs-title="Pista 1" data-bs-content="PISTA">
-        PISTA 2
-      </button>
+            <div class= "botonH2">
+            <button type="button" class="btn btn-secondary"
+                data-bs-toggle="popover" data-bs-placement="right"
+                data-bs-custom-class="custom-popover"
+                data-bs-title="Pista 1"
+                data-bs-content="El lineup C ya esta en la posicion correcta.">
+                PISTA 1
+            </button>
+       
+            <button type="button" class="btn btn-secondary"
+                data-bs-toggle="popover" data-bs-placement="right"
+                data-bs-custom-class="custom-popover"
+                data-bs-title="Pista 2"
+                data-bs-content="Los lineup E y F van juntos pero no en ese orden. ">
+                PISTA 2
+            </button>
     </div>
         <h1>@ViewBag.Error<h1>
 
