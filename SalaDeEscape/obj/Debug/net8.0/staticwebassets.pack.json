@@ -209,6 +209,26 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\musicahab1.mp3",
+      "PackagePath": "staticwebassets\\musicahab1.mp3"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\musicahab2.mp3",
+      "PackagePath": "staticwebassets\\musicahab2.mp3"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\musicahab5.mp3",
+      "PackagePath": "staticwebassets\\musicahab5.mp3"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\musicahab6.mp3",
+      "PackagePath": "staticwebassets\\musicahab6.mp3"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\musicavictoria.mp3",
+      "PackagePath": "staticwebassets\\musicavictoria.mp3"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
