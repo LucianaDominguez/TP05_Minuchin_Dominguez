@@ -244,27 +244,35 @@ footer {
   background-image: url("../img/fondoIndex.jpg"); 
   background-size: cover;   
   color:#ffffff;
-  font-size: 160%;
+  font-size: 180%;
 }
-.index section{
+.index1{
   height:40%;
   margin-top:10%;
 }  
-.index div
+.index div, .imgIndex
 { 
   display: flex;
   align-items:start;
   margin-left: 500px;
   height:60%;  
   margin-right:15%;
-  
-  
-
 }   
 .index button 
 {
   width: 15%; 
   height: 15%; 
+}
+.imgIndex{
+  height:50%;
+  clear:both;
+  margin-bottom: 3%;
+}
+.imgIndex img{
+  height: 100%;
+  float: left;
+  margin-right:3%;
+  
 }
 
 .tutorial 

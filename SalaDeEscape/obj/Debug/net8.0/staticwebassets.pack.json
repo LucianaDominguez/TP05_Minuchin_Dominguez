@@ -85,6 +85,14 @@
       "PackagePath": "staticwebassets\\img\\fondovictoria.gif"
     },
     {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\index1.png",
+      "PackagePath": "staticwebassets\\img\\index1.png"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\index2.png",
+      "PackagePath": "staticwebassets\\img\\index2.png"
+    },
+    {
       "Id": "D:\\Luly\\INFO 2024\\TP05_Minuchin_Dominguez-1\\SalaDeEscape\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
