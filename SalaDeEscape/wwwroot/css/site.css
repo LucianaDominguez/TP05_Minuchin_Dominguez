@@ -22,6 +22,15 @@ html {
   font-family: Arial, Helvetica, sans-serif; 
   
 }
+button{
+  background-color: #000000;
+  
+  border-radius: 3%;
+}
+button a{
+  color: #e9ecef;
+  text-decoration: none;
+}
 
 body {
   margin: 10px;
@@ -77,6 +86,10 @@ form{
 .botonH1 
 {
   margin-top: 300px;
+  
+}
+.botonH1 button, .botonH2 button{
+  background-color: #000b6b;
 }
 
 .hab2{
@@ -128,11 +141,14 @@ form{
   background-image: url("../img/fondo10B.jpg"); 
   background-size: cover;
   text-align: center; 
-  color:#c70000;
   font-size: 160%;
   font-weight: bolder;
-  height:1600px;
+  height:1700px;
 }
+.hab6 h2, .hab6 h1, .hab6p{
+  background-color: #ffffff;
+  color:#119400
+} 
 .lineup-section 
 { 
   display: flex;
@@ -248,20 +264,31 @@ footer {
 }
 .index1{
   height:40%;
-  margin-top:10%;
-}  
+}
+.index h1{
+  background-color: #000000;
+  opacity: 70%;
+} 
 .index div, .imgIndex
 { 
   display: flex;
   align-items:start;
   margin-left: 500px;
-  height:60%;  
+  height:40%;  
   margin-right:15%;
 }   
-.index button 
+.index div button 
 {
-  width: 15%; 
-  height: 15%; 
+  width: 10%; 
+  height: 30%;
+  background-color: #e9ecef; 
+  margin: 3%;
+  border:none;
+  border-radius: 40%;
+}
+.index div button a{
+  color:#000000;
+  text-decoration: none;
 }
 .imgIndex{
   height:50%;
